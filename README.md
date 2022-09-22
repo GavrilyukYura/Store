@@ -1,9 +1,3 @@
-# React TypeScript Starter Pack
-
-To use this template click `Use this template`
-
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+Виконав тестове завдання згінно макету з Figma https://www.figma.com/file/2Q5Sp4dvbreGaJyEFx89dP/Shop?node-id=0%3A1
+Для реалізації першого завдання створив fakestore api використовуючи json-server тому щоб запустити додаток потрібно склонувати репозиторй та перед запуском
+в терміналі прописати команду json-server --watch db.json для запуску локального серверу.

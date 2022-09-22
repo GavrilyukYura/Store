@@ -1,0 +1,97 @@
+{
+  "goods": [
+    {
+      "id": 1,
+      "title": "Сукні",
+      "price": "900 грн",
+      "url": "../images/1.png",
+      "urlBig":"../images/1Big.png",
+      "isSelected": "false"
+    },
+    {
+      "id": 2,
+      "title": "Брюки",
+      "price": "900 грн",
+      "url": "../images/2.png",
+      "urlBig":"../images/2Big.png",
+      "isSelected": "false"
+    },
+    {
+      "id": 3,
+      "title": "Топи",
+      "price": "900 грн",
+      "url": "../images/3.png",
+      "urlBig":"../images/3Big.png",
+      "isSelected": "false"
+    }, {
+      "id": 4,
+      "title": "Футболки",
+      "price": "900 грн",
+      "url": "../images/4.png",
+      "urlBig":"../images/4Big.png",
+      "isSelected": "false"
+    },
+    {
+      "id": 5,
+      "title": "Сукні",
+      "price": "900 грн",
+      "url": "../images/1.png",
+      "urlBig":"../images/1Big.png",
+      "isSelected": "false"
+    },
+    {
+      "id": 6,
+      "title": "Брюки",
+      "price": "900 грн",
+      "url": "../images/2.png",
+      "urlBig":"../images/2Big.png",
+      "isSelected": "false"
+    },
+    {
+      "id": 7,
+      "title": "Топи",
+      "price": "900 грн",
+      "url": "../images/3.png",
+      "urlBig":"../images/3Big.png",
+      "isSelected": "false"
+    }, {
+      "id": 8,
+      "title": "Футболки",
+      "price": "900 грн",
+      "url": "../images/4.png",
+      "urlBig":"../images/4Big.png",
+      "isSelected": "false"
+    },
+    {
+      "id": 9,
+      "title": "Сукні",
+      "price": "900 грн",
+      "url": "../images/1.png",
+      "urlBig":"../images/1Big.png",
+      "isSelected": "false"
+    },
+    {
+      "id": 10,
+      "title": "Брюки",
+      "price": "900 грн",
+      "url": "../images/2.png",
+      "urlBig":"../images/2Big.png",
+      "isSelected": "false"
+    },
+    {
+      "id": 11,
+      "title": "Топи",
+      "price": "900 грн",
+      "url": "../images/3.png",
+      "urlBig":"../images/3Big.png",
+      "isSelected": "false"
+    }, {
+      "id": 12,
+      "title": "Футболки",
+      "price": "900 грн",
+      "url": "../images/4.png",
+      "urlBig":"../images/4Big.png",
+      "isSelected": "false"
+    }
+  ]
+}
